@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "The Everlasting Guilty Crown",
+  "base_artist": "EGOIST",
+  "createdAt": "2026-03-13T11:26:26.716092Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Everlasting Guilty Crown",
+      "artist": "EGOIST",
+      "has_synced": true,
+      "path": "select/01_The_Everlasting_Guilty_Crown_EGOIST.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Everlasting Guilty Crown",
+      "artist": "Egoist",
+      "has_synced": true,
+      "path": "select/02_The_Everlasting_Guilty_Crown_Egoist.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The  Everlasting  Guilty  Crown",
+      "artist": "EGOIST",
+      "has_synced": true,
+      "path": "select/03_The_Everlasting_Guilty_Crown_EGOIST.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Everlasting Guilty Crown",
+      "artist": "Selphius",
+      "has_synced": true,
+      "path": "select/04_The_Everlasting_Guilty_Crown_Selphius.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Everlasting Guilty Crown Nightcore mix",
+      "artist": "EGOIST",
+      "has_synced": true,
+      "path": "select/05_The_Everlasting_Guilty_Crown_Nightcore_mix_EGOIST.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Everlasting Guilty Crown",
+      "artist": "Egoist",
+      "has_synced": true,
+      "path": "select/06_The_Everlasting_Guilty_Crown_Egoist.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Everlasting Guilty Crown  (Nightcore Mix)",
+      "artist": "Egoist",
+      "has_synced": true,
+      "path": "select/07_The_Everlasting_Guilty_Crown_(Nightcore_Mix)_Egoist.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Everlasting Guilty Crown",
+      "artist": "Egoist",
+      "has_synced": true,
+      "path": "select/08_The_Everlasting_Guilty_Crown_Egoist.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Everlasting Guilty Crown",
+      "artist": "chelly",
+      "has_synced": true,
+      "path": "select/09_The_Everlasting_Guilty_Crown_chelly.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Everlasting Guilty Crown",
+      "artist": "EGOIST",
+      "has_synced": false,
+      "path": "select/pl_01_The_Everlasting_Guilty_Crown_EGOIST.txt"
+    }
+  ]
+}
